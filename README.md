@@ -13,5 +13,6 @@ Then Run npm install to install all dependencies
 
 At Last Run npm start
 
+Open Browser And Type http://localhost:3000
 
 ```
